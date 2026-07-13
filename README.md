@@ -20,15 +20,6 @@ A simple e-commerce web application that uses the Fake Store API to display prod
 - JavaScript (ES6)
 - Fake Store API
 
-## 📂 Project Structure
-
-```
-fake-store-api/
-│── index.html
-│── style.css
-│── script.js
-│── README.md
-```
 
 ## ⚙️ Installation
 
