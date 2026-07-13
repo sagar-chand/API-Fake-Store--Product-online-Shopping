@@ -16,7 +16,7 @@ A simple e-commerce web application that uses the Fake Store API to display prod
 - HTML5
 - CSS3
 - Bootstrap5
-- jquery
+- Jquery
 - JavaScript (ES6)
 - Fake Store API
 
@@ -26,7 +26,7 @@ A simple e-commerce web application that uses the Fake Store API to display prod
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/fake-store-api.git
+git clone https://github.com/sagar-chand/fake-store-api.git
 ```
 
 2. Open the project folder.
