@@ -1,6 +1,8 @@
 # 🛍️ Fake Store API - Online Shopping Project
 
 A simple e-commerce web application that uses the Fake Store API to display products, categories, and product details. This project demonstrates how to fetch and display data from a REST API using JavaScript.
+## Live Demo
+ https://sagar-chand.github.io/API-Fake-Store--Product-online-Shopping/
 
 ## 🚀 Features
 
